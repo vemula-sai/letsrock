@@ -1,3 +1,4 @@
 this is first line from sai
 this is second line from vijaya
 this is thirs line from subbarao
+commit from master for all resolutions
